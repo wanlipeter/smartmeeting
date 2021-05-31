@@ -5,7 +5,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * @author wanli
+ * @ClassName: HomeController
+ * @Description: TODO
+ * @Author: WanLi
+ * @Date: 2020/8/3 下午4:01
  */
 @Controller
 public class TestController {
