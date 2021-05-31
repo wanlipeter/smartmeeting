@@ -14,8 +14,12 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class TestController {
 
     /**
-     * 应用状态检测
-     */
+     * @Author WanLi
+     * @Description //TODO 
+     * @Date 6:36 下午 2021/5/31
+     * @Param []
+     * @return java.lang.String
+     **/
     @RequestMapping("/ok")
     @ResponseBody
     public String ok() {
